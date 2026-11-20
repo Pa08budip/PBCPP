@@ -1,0 +1,3 @@
+Tarea 1: Hacer programacion
+Tarea 2: Hacer algoritmos
+Tarea 3: Hacer calculo

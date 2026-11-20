@@ -1,0 +1,7 @@
+Calificaciones de los estudiantes
+Listado de calificaciones por estudiante:
+Estudiante 1: 100.00 88.00 
+Estudiante 2: 100.00 100.00 
+Promedio general del grupo: 97.00
+Calificación máxima: 100.00
+Calificación mínima: 88.00
